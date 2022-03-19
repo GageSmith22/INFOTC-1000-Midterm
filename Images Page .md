@@ -7,4 +7,4 @@
 
 ## This image is not in the Repo, instead it is hosted on a website known as Pexels.com
 
-#[Click here to return to the previous page](https://github.com/GageSmith22/INFOTC-1000-Midterm/blob/main/README.md)
+[Click here to return to the previous page](https://github.com/GageSmith22/INFOTC-1000-Midterm/blob/main/README.md)
