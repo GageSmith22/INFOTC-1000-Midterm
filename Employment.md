@@ -8,3 +8,5 @@
 
 ## 3. Pet-Pro Products (2020-present)
 ### I currently work for a small company that specialized in making exotic animal feed. I work creating labels, doing paperwork for shipping pallets of feed, and generalized office work that is needed to keep the business functioning.
+
+[Click here to return to the previous page](https://github.com/GageSmith22/INFOTC-1000-Midterm/blob/main/README.md)
