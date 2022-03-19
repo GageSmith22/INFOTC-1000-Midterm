@@ -11,3 +11,4 @@
 
 ## Email Address: gss2mk@umsystem.edu
 ## Link to [GitHub](https://github.com/GageSmith22)
+## Link to some of my [Code](/GageSmith22/INFOTC-1000-Midterm/blob/main/Code%20Page.md)
