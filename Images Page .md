@@ -5,6 +5,6 @@
 
 # Image #2 can be viewed here ![Space](https://images.pexels.com/photos/2150/sky-space-dark-galaxy.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 "Space")
 
-## This image is not in the Repo, instead it is hosted on Google's servers
+## This image is not in the Repo, instead it is hosted on a website known as Pexels.com
 
 #[Click here to return to the previous page](https://github.com/GageSmith22/INFOTC-1000-Midterm/blob/main/README.md)
