@@ -1,4 +1,4 @@
-# Gage Smith Midterm Project
+# Gage Smith Midterm Project (GSS2MK)
 
 #### Hi, my name is Gage Smith and this is my submission for the INFOTC 1000 midterm assignment.
 #### I have created a simple markdown site and have hosted it in a Github Repo and have included all requirements for the challenge.
