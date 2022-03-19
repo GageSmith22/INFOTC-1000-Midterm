@@ -9,5 +9,5 @@
 3. From Wellsville, Missouri.
 4. Interested in Cyber Security and Digital Infrastructure.
 
-# Email Address: gss2mk@umsystem.edu
+## Email Address: gss2mk@umsystem.edu
 ## Link to [GitHub](https://github.com/GageSmith22)
