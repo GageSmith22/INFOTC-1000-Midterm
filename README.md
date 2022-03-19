@@ -12,4 +12,4 @@
 ## Email Address: gss2mk@umsystem.edu
 ## Link to [GitHub](https://github.com/GageSmith22)
 ## Link to some of my [Code](https://github.com/GageSmith22/INFOTC-1000-Midterm/blob/main/Code%20Page.md)
-## Examples of images that I have imbeded within markdown pages. Please click [Here] to view the page.
+## Examples of images that I have imbeded within markdown pages. Please click [Here](https://github.com/GageSmith22/INFOTC-1000-Midterm/blob/main/Images%20Page%20.md) to view the page.
