@@ -34,4 +34,4 @@
 
 ## This is missing the syntax that is required in HTML documents, however it does diplay the function and the logic that I used to complete this assignment.
 
-#[Click here to return to the previous page](https://github.com/GageSmith22/INFOTC-1000-Midterm/blob/main/README.md)
+[Click here to return to the previous page](https://github.com/GageSmith22/INFOTC-1000-Midterm/blob/main/README.md)
