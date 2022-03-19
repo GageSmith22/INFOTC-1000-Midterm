@@ -3,7 +3,7 @@
 # Image #1 can be viewed here ![Beach](https://github.com/GageSmith22/INFOTC-1000-Midterm/blob/main/Beach.jpg "Beach")
 ## This image is hosted directly in the Github Repo.
 
-# Image #2 can be viewed here ![Space](https://images.pexels.com/photos/220201/pexels-photo-220201.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500 "Space")
+# Image #2 can be viewed here ![Space](https://images.pexels.com/photos/2150/sky-space-dark-galaxy.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 "Space")
 
 ## This image is not in the Repo, instead it is hosted on Google's servers
 
