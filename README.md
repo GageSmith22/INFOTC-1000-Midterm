@@ -6,6 +6,7 @@
 
 #### Email Address: gss2mk@umsystem.edu
 ### Link to [About Me](https://github.com/GageSmith22/INFOTC-1000-Midterm/blob/main/List.md) page.
-### Link to [GitHub](https://github.com/GageSmith22)
-### Link to some of my [Code](https://github.com/GageSmith22/INFOTC-1000-Midterm/blob/main/Code%20Page.md)
+### Link to [Employment History](https://github.com/GageSmith22/INFOTC-1000-Midterm/blob/main/Employment.md).
+### Link to [GitHub](https://github.com/GageSmith22).
+### Link to some of my [Code](https://github.com/GageSmith22/INFOTC-1000-Midterm/blob/main/Code%20Page.md).
 ### Examples of images that I have imbeded within markdown pages. Please click [Here](https://github.com/GageSmith22/INFOTC-1000-Midterm/blob/main/Images%20Page%20.md) to view the page.
