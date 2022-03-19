@@ -8,4 +8,4 @@
 4. Interested in Cyber Security and Digital Infrastructure.
 5. I hope to become a penetration tester and use the skills that I have obtained at Mizzou in order to pursue my carrer in a helpful and ethical way
 
-#[Click here to return to the previous page](https://github.com/GageSmith22/INFOTC-1000-Midterm/blob/main/README.md)
+[Click here to return to the previous page](https://github.com/GageSmith22/INFOTC-1000-Midterm/blob/main/README.md)
